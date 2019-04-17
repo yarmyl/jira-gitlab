@@ -37,3 +37,8 @@ pip3 install -r /app/requirements.txt
 Example:
 
 10108=root/test,,master
+
+## [JIRA]
+
+
+## [GitLab]
