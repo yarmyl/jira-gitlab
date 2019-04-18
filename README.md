@@ -1,5 +1,7 @@
 # jira-gitlab
 
+Issue <-> Project relation
+
 ## Install
 
 ```
@@ -40,5 +42,6 @@ Example:
 
 ## [JIRA]
 
+In Jira add webhook https://developer.atlassian.com/server/jira/platform/webhooks/
 
 ## [GitLab]
