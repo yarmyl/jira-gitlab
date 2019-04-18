@@ -1,6 +1,6 @@
 # jira-gitlab
 
-Issue <-> Project relation
+Issue -> Project relation
 
 ## Install
 
